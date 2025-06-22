@@ -139,3 +139,5 @@ If you'd like to contribute to this project, follow the steps below:
 <p align="left">
 <a href="https://linkedin.com/in/shayan-shah-b31439296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-shah-b31439296" height="20" width="50" /></a>
 </p>
+
+[<img src="https://github.com/user-attachments/assets/86fc1b36-ccf0-4300-99a2-cb4a31d73a8b" width="150" alt="Buy Me a Coffee">](https://buymeacoffee.com/shayanshahdev)
